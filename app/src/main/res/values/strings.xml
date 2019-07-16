@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Blood Bank</string>
+    <string name="blood_group">Select Blood Group</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
